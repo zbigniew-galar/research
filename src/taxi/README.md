@@ -16,10 +16,10 @@ Yellow Taxi Trip Records decile processing. Retrieved January 29, 2026, from htt
 
 | **Analysis ID** | **Metric**      | **Resolution** | **Filters Applied**        |
 | --------------- | --------------- | -------------- | -------------------------- |
-| **01 / 02**     | Passenger Count | Week / Hour    | $1 \le P \le 5$            |
-| **03 / 04**     | Total Amount    | Week / Hour    | $\$0.01 \le \$ \le \$1000$ |
-| **05 / 06**     | Trip Distance   | Week / Hour    | $0.2 \le D \le 550$ miles  |
-| **07 / 08**     | Trip Duration   | Week / Hour    | $1 \le T \le 720$ minutes  |
+| **01 / 02**     | Passenger Count | Week / Hour    | $1 <= P <= 5$              |
+| **03 / 04**     | Total Amount    | Week / Hour    | $0.01 <= $ <= $1000$       |
+| **05 / 06**     | Trip Distance   | Week / Hour    | $0.2 <= D <= 550$ miles    |
+| **07 / 08**     | Trip Duration   | Week / Hour    | $1 <= T <= 720 minutes     |
 | **09 / 10**     | System Speed    | Week / Hour    | Derived from D & T above   |
 
 
