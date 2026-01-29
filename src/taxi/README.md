@@ -47,4 +47,4 @@ New York City Taxi and Limousine Commission. Yellow Taxi Trip Records. Retrieved
 
 **Author:**
 Zbigniew Galar, PhD University of Lodz Department of Management
-zbigniew.galar@proton.me
+zbigniew.galar@wz.uni.lodz.pl
