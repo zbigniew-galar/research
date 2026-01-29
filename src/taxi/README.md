@@ -3,14 +3,14 @@ Code 01_10_loop.py is processing Yellow Taxi Trip Records dataset extracting wee
 
 **Citation:**
 
-Yellow Taxi Trip Records processing. Retrieved January 29, 2026, from https://github.com/zbigniew-galar/research/blob/main/src/taxi/01_10_loop.py
+Yellow Taxi Trip Records basic weekly processing. Retrieved January 29, 2026, from https://github.com/zbigniew-galar/research/blob/main/src/taxi/01_10_loop.py
 
 #### **Big data processing 5&6 and 7&8 analysis decile deep dive loop:**
 Code 05_08_decile_loop.py is processing Yellow Taxi Trip Records dataset extracting weekly deciles of trip_distance, time with 2nd version for each hour.
 
 **Citation:**
 
-Yellow Taxi Trip Records decile processing. Retrieved January 29, 2026, from https://github.com/zbigniew-galar/research/blob/main/src/taxi/05_08_decile_loop.py
+Yellow Taxi Trip Records decile weekly processing. Retrieved January 29, 2026, from https://github.com/zbigniew-galar/research/blob/main/src/taxi/05_08_decile_loop.py
 
 #### **Data cleaning operations:**
 
