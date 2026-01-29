@@ -6,7 +6,7 @@ Code 01_10_loop.py is processing Yellow Taxi Trip Records dataset extracting wee
 Yellow Taxi Trip Records processing. Retrieved January 29, 2026, from https://github.com/zbigniew-galar/research/blob/main/src/taxi/01_10_loop.py
 
 #### **Big data processing 5&6 and 7&8 analysis decile deep dive loop:**
-Code 01_10_loop.py is processing Yellow Taxi Trip Records dataset extracting weekly deciles of trip_distance, time with 2nd version for each hour.
+Code 05_08_decile_loop.py is processing Yellow Taxi Trip Records dataset extracting weekly deciles of trip_distance, time with 2nd version for each hour.
 
 **Citation:**
 
@@ -35,11 +35,13 @@ Yellow Taxi Trip Records decile processing. Retrieved January 29, 2026, from htt
 - **Analysis 10:** speed sum and speed mean and speed median per hour (72 metrics)
 
 #### **Yellow cab taxi trips source:**
+
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 **Scope:** 
 Years 2009 - 2026 ~ 1.8 billion records.
 
 **Citation of the data source example:**
+
 New York City Taxi and Limousine Commission. Yellow Taxi Trip Records. Retrieved January 29, 2026, from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
