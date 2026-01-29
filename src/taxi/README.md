@@ -45,3 +45,6 @@ Years 2009 - 2026 ~ 1.8 billion records.
 
 New York City Taxi and Limousine Commission. Yellow Taxi Trip Records. Retrieved January 29, 2026, from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
+**Author:**
+Zbigniew Galar, PhD University of Lodz Department of Management
+zbigniew.galar@proton.me
